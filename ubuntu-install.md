@@ -4,7 +4,8 @@
 
 Open your browser and download the ISO file containing Ubuntu from [here](https://ubuntu.com/download/desktop).
   
-**I strongly suggest to use the LTS version of Ubuntu for stable version with Long Term Support.**
+**I strongly suggest to use the LTS version of Ubuntu for stable version with Long Term Support. Preferably download 18.04.**
+
 
 ### Create Bootable Pendrive 
 

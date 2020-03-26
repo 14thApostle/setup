@@ -123,6 +123,7 @@ else
     execute /opt/anaconda3/bin/conda install libgcc -y
     execute /opt/anaconda3/bin/pip install numpy scipy matplotlib scikit-learn scikit-image jupyter notebook pandas h5py cython jupyterlab
     execute /opt/anaconda3/bin/pip install msgpack
+    execute /opt/anaconda3/bin/pip install opencv-contrib-python
     execute /opt/anaconda3/bin/conda install line_profiler -y
     sed -i.bak "/anaconda3/d" ~/.zshrc
 
